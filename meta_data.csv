@@ -1,0 +1,36 @@
+subline_id;responsible;email_verteiler
+op2.2.2 - as7;T. Stielau;hdlp_ssp_as7@ifa-group.com
+op1.1.1 - as2;K.Tucholke;hdlp_ssp_as2@ifa-group.com
+op1.1.1.1 - Volumen;K. Tucholke;hdlp_ssp_as2@ifa-group.com
+op1.1.1.2 - Überhang;K. Tucholke;hdlp_ssp_as2@ifa-group.com
+op1.1.1.3 - Flexlinie;K. Tucholke;hdlp_ssp_as2@ifa-group.com
+op1.2.1 - as3;K. Tucholke;hdlp_ssp_as3@ifa-group.com
+op1.2.1.1 - oem;K. Tucholke;hdlp_ssp_as3@ifa-group.com
+op1.2.1.2 - mfa;K. Tucholke;hdlp_ssp_as3@ifa-group.com
+op1.2.2 - pb2;M. Giggle;hdlp_ssp_pb2@ifa-group.com
+op1.2.3 - WL;M. Giggle;hdlp_ssp_wl@ifa-group.com
+op2.1.1 - as4;T. Stielau;hdlp_ssp_as4@ifa-group.com
+op2.1.1.1 - as4 Daimler;T. Stielau;hdlp_ssp_as4@ifa-group.com
+op2.1.1.2 - as4 BMW;T. Stielau;hdlp_ssp_as4@ifa-group.com
+op2.1.1.3 - Porsche Mopf;T. Stielau;hdlp_ssp_as4@ifa-group.com
+op2.1.2 - as5;T. Stielau;hdlp_ssp_as5@ifa-group.com
+op2.1.2.1 - Teilwelle;T. Stielau;hdlp_ssp_as5@ifa-group.com
+op2.1.2.2 - Linie1;T. Stielau;hdlp_ssp_as5@ifa-group.com
+op2.1.2.3 - Linie2;T. Stielau;hdlp_ssp_as5@ifa-group.com
+op2.1.2.4 - Linie3;T. Stielau;hdlp_ssp_as5@ifa-group.com
+op2.1.2.5 - Linie4;T. Stielau;hdlp_ssp_as5@ifa-group.com
+op2.2.1 - as6;T. Stielau;hdlp_ssp_as6@ifa-group.com
+op2.3.1 - ma2;C. Jordan;hdlp_ssp_ma2@ifa-group.com
+op2.3.2 - pb1;M. Giggle;hdlp_ssp_pb1@ifa-group.com
+op2.3.3 - ma6;F. Jericke;hdlp_ssp_ma6@ifa-group.com
+op2.4.1 - ixpr;F. Jericke;hdlp_ssp_ixpr@ifa-group.com
+op2.4.2 - ixpz;C. Jordan;hdlp_ssp_ixpz@ifa-group.com
+op2.4.3 - ixpm;F. Jericke;hdlp_ssp_ixpm@ifa-group.com
+op1.3.1 - ma3;C. Jordan;hdlp_ssp_ma3@ifa-group.com
+op1.3.2 - ma4;C. Jordan;hdlp_ssp_ma4@ifa-group.com
+op1.4.1 - ma1;F. Jericke;hdlp_ssp_ma1@ifa-group.com
+op1.4.2 - ihc;F. Jericke;hdlp_ssp_ihc@ifa-group.com
+op1.4.3 - idf;F. Jericke;hdlp_ssp_idf@ifa-group.com
+op1.4.4 - ihf;F. Jericke;hdlp_ssp_ihf@ifa-group.com
+op1.4.2 - ihc, idf, ihf;F. Jericke;hdlp_ssp_ihf@ifa-group.com
+LOG3;C. Dittrich;hdlp_ssp_log@ifa-group.com
