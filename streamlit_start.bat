@@ -1,0 +1,1 @@
+E:\Webapp__streamlit_venv\Scripts\activate & streamlit run E:\Webapp_SSP\main_v3_1.py --server.port 8501
